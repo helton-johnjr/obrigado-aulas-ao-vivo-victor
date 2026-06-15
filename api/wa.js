@@ -6,7 +6,7 @@ const redis = new Redis({
 });
 
 const LINKS = [
-  'https://wa.me/5561996558847?text=Ol%C3%A1%2C%20quero%20participar%20das%20lives%20semanais%20do%20Victor%20Dalton',
+  'https://wa.me/5548988006506?text=Ol%C3%A1%2C%20quero%20participar%20das%20lives%20semanais%20do%20Victor%20Dalton',
   'https://wa.me/5548991334921?text=Ol%C3%A1%2C%20quero%20participar%20das%20lives%20semanais%20do%20Victor%20Dalton',
 ];
 
